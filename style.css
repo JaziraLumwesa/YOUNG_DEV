@@ -1,0 +1,6 @@
+.table{
+    text-align: center;
+    table-layout: auto;
+    -o-table-baseline: initial;
+    tab-size: 0cap;
+}
